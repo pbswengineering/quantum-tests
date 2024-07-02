@@ -28,3 +28,9 @@ Brisbane ha dato Failed, l'altra ha impiegato 2:39.
 
 ## 2024-07-02 Brisbane + Kyoto
 
+Reconstructed expectation value: 0.15854882
+Exact expectation value: 0.56254612
+Error in estimation: -0.40399731
+Relative error in estimation: -0.71815855
+
+Tuttavia questa esecuzione è stata molto travagliata, ho recuperato i Job da zero
