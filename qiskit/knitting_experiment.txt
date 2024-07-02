@@ -1,9 +1,0 @@
-2024-07-02 Brisbane + Kyoto
-
-Reconstructed expectation value: 0.19334501
-Exact expectation value: 0.56254612
-Error in estimation: -0.36920111
-Relative error in estimation: -0.65630372
-
-2024-07-02 Brisbane Only
-
