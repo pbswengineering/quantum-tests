@@ -1,0 +1,6 @@
+pennylane
+setuptools
+qiskit
+pennylane-qiskit
+notebook
+matplotlib
