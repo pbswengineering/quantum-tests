@@ -1,0 +1,7 @@
+The simple test circuit should return something around
+
+0.5475580692291261
+
+However, the forwarding device currently returns
+
+0.79423191368796
